@@ -1,0 +1,16 @@
+C:\Users\misha\OneDrive\Рабочий стол\Photoshop\bin\Debug\cat.jpg
+C:\Users\misha\OneDrive\Рабочий стол\Photoshop\bin\Debug\MyPhotoshop.exe.config
+C:\Users\misha\OneDrive\Рабочий стол\Photoshop\bin\Debug\MyPhotoshop.exe
+C:\Users\misha\OneDrive\Рабочий стол\Photoshop\bin\Debug\MyPhotoshop.pdb
+C:\Users\misha\OneDrive\Рабочий стол\Photoshop\obj\x86\Debug\Photoshop.csproj.AssemblyReference.cache
+C:\Users\misha\OneDrive\Рабочий стол\Photoshop\obj\x86\Debug\Photoshop.csproj.CoreCompileInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\Photoshop\obj\x86\Debug\MyPhotoshop.exe
+C:\Users\misha\OneDrive\Рабочий стол\Photoshop\obj\x86\Debug\MyPhotoshop.pdb
+C:\Users\misha\OneDrive\Рабочий стол\Разное\Photoshop\bin\Debug\cat.jpg
+C:\Users\misha\OneDrive\Рабочий стол\Разное\Photoshop\bin\Debug\MyPhotoshop.exe.config
+C:\Users\misha\OneDrive\Рабочий стол\Разное\Photoshop\bin\Debug\MyPhotoshop.exe
+C:\Users\misha\OneDrive\Рабочий стол\Разное\Photoshop\bin\Debug\MyPhotoshop.pdb
+C:\Users\misha\OneDrive\Рабочий стол\Разное\Photoshop\obj\x86\Debug\Photoshop.csproj.AssemblyReference.cache
+C:\Users\misha\OneDrive\Рабочий стол\Разное\Photoshop\obj\x86\Debug\Photoshop.csproj.CoreCompileInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\Разное\Photoshop\obj\x86\Debug\MyPhotoshop.exe
+C:\Users\misha\OneDrive\Рабочий стол\Разное\Photoshop\obj\x86\Debug\MyPhotoshop.pdb
